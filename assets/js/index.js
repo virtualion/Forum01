@@ -10,13 +10,13 @@ const attachMuseum = ({thumbnail, category, title, like, liked, view, link}) => 
         <div class="statistic">
           <div class="item likeBtn ${liked ? "liked" : ""}">
             <!-- Love Icon -->
-            <img src="/assets/icon/heart.png" class="icon like" alt=""/>
-            <img src="/assets/icon/heart-gray.png" class="icon unlike" alt=""/>
+            <img src="assets/icon/heart.png" class="icon like" alt=""/>
+            <img src="assets/icon/heart-gray.png" class="icon unlike" alt=""/>
             <p class="label">${like}</p>
           </div>
           <div class="item">
             <!-- Eye Icon -->
-            <img src="/assets/icon/eye.png" class="icon" alt=""/>
+            <img src="assets/icon/eye.png" class="icon" alt=""/>
             <p class="label">${view}</p>
           </div>
         </div>
