@@ -423,5 +423,39 @@
     "liked": "false",
     "view": 0,
     "featured": "false"
+  },
+  {
+    "id": "nagafujiriku",
+    "date": "10/1/2023",
+    "title": "nagafujiriku",
+    "thumbnail": "/assets/img/thumbnail_m/nagafujiriku.png",
+    "link": "https://nftmuseum.coresv.com/Riku/",
+    "category": "project",
+    "keyword": [
+      "nagafujiriku",
+      "museum",
+      "art"
+    ],
+    "like": 0,
+    "liked": "false",
+    "view": 0,
+    "featured": "false"
+  },
+  {
+    "id": "\u5927\u962a\u5927\u5b66\u7f8e\u8853\u90e8",
+    "date": "10/1/2023",
+    "title": "\u5927\u962a\u5927\u5b66\u7f8e\u8853\u90e8",
+    "thumbnail": "/assets/img/thumbnail_m/\u5927\u962a\u5927\u5b66\u7f8e\u8853\u90e8.png",
+    "link": "https://nftmuseum.coresv.com/hanbi/",
+    "category": "project",
+    "keyword": [
+      "\u5927\u962a\u5927\u5b66\u7f8e\u8853\u90e8",
+      "museum",
+      "art"
+    ],
+    "like": 0,
+    "liked": "false",
+    "view": 0,
+    "featured": "false"
   }
 ]
