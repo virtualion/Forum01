@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Virtualion</title>
+
+  <link rel="stylesheet" href="assets/css/index.css">
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
+  />
+
+  <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+  <script type="module" src="assets/js/index.js"></script>
+</head>
+<body>
+  <nav class="navigation">
+    <div class="leftNavigation">
+      <button class="hamburgerBtn">
+        <img class="img" src="assets/icon/hamburger-icon.png"/>
+      </button>
+      <button class="closeNavigationBtn hide">
+        <img class="img" src="assets/icon/close-icon.png"/>
+      </button>
+      <div class="navigation__app">
+        <span class="app__logo"></span>
+        <p class="app__text bodyMediumMedium bodyLargeBold-md">Virtualion</p>
+      </div>
+    </div>
+    <ul class="navigation-group">
+      <li class="bodySmallReguler list-item">Home</li>
+      <li class="bodySmallReguler list-item">Our Curators</li>
+      <li class="bodySmallReguler list-item">About</li>
+      <li class="bodySmallReguler list-item">News</li>
+      <li class="bodySmallReguler list-item">Contact</li>
+    </ul>
+    <button class="subscribeBtn">
+      <span class="label bodySmallMedium">Subscribe</span>
+    </button>
+  </nav>
+  <div class="navigationDrawer">
+    <ul class="navigationGroup">
+      <li class="bodySmallReguler item">Home</li>
+      <li class="bodySmallReguler item">Our Curators</li>
+      <li class="bodySmallReguler item">About</li>
+      <li class="bodySmallReguler item">News</li>
+      <li class="bodySmallReguler item">Contact</li>
+    </ul>
+
+    <div class="groupButton">
+      <button>
+        <img src="assets/icon/question-icon.png" class="img"/>
+      </button>
+      <button>
+        <img src="assets/icon/share-icon.png" class="img"/>
+      </button>
+    </div>
+  </div>
+
+  <main>
+    <!-- Hero -->
+    <section class="hero">
+      <div class="hero__container">
+        <div class="information-container">
+          <h1 class="title heading-4 heading-3-md">ミュージアムが<br>拡がる。</h1>
+          <p class="description bodySmallReguler bodyMediumReguler-md">Virtualion®は、収蔵品データベースを活用したバーチャルミュージアムや、過去の特別展のアーカイブなど、「メタバース」によるミュージアム資産の活用をサポートします。</p>
+        </div>
+
+        <!-- Search Input -->
+        <div class="search">
+          <img class="icon" src="/assets/icon/search-lg.png" alt="" />
+          <input
+            id="search-museum"
+            type="text"
+            class="input bodyMediumReguler"
+            placeholder="Search..."
+          />
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Content -->
+    <section class="content">
+      <div class="container">
+        <ul class="filters-category">
+          <li class="filter-item bodySmallMedium" data-filter="western">Western</li>
+          <li class="filter-item bodySmallMedium" data-filter="oriental">Oriental</li>
+          <li class="filter-item bodySmallMedium" data-filter="social">Social</li>
+          <li class="filter-item bodySmallMedium" data-filter="person">Person</li>
+          <li class="filter-item bodySmallMedium" data-filter="natural">Natural</li>
+          <li class="filter-item bodySmallMedium" data-filter="modern">Modern</li>
+          <li class="filter-item bodySmallMedium" data-filter="project">Project</li>          
+          <li class="showAllBtn bodyMediumReguler">
+            All
+            <img class="icon" src="/assets/icon/arrow-right.png" alt=""/>
+          </li>
+        </ul>
+
+        <div class="group-action">
+          <div class="dropdown-group">
+            <div id="dropdownTime" class="dropdown">
+              <div class="select">
+                <p class="labelSelected bodySmallMedium">All Time</p>
+                <svg class="arrowIcon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M5 7.5L10 12.5L15 7.5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </div>
+              <ul class="options">
+                <li class="option bodySmallMedium" data-option="now">
+                  <span>Now</span>
+                  <img src="/assets/icon/check.png" class="icon" alt=""/>
+                </li>
+                <li class="option bodySmallMedium" data-option="past-week">
+                  <span>This Past Week</span>
+                  <img src="/assets/icon/check.png" class="icon" alt=""/>
+                </li>
+                <li class="option bodySmallMedium" data-option="past-month">
+                  <span>This Past Month</span>
+                  <img src="/assets/icon/check.png" class="icon" alt=""/>
+                </li>
+                <li class="option bodySmallMedium" data-option="past-year">
+                  <span>This Past Year</span>
+                  <img src="/assets/icon/check.png" class="icon" alt=""/>
+                </li>
+                <li class="option bodySmallMedium active" data-option="all-time">
+                  <span>All Time</span>
+                  <img src="/assets/icon/check.png" class="icon" alt=""/>
+                </li>
+              </ul>
+            </div>
+
+    
+            
+          </div>
+
+          <div class="thumbnail">
+            <p class="bodySmallMedium title">Thumbnail size</p>
+            <div class="action">
+              <button class="button increaseThumnailBtn">
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M4.16406 10H15.8307" stroke="#64748B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>                  
+              </button>
+              <span class="divider"></span>
+              <button class="button decreaseThumnailBtn">
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M9.9974 4.16699V15.8337M4.16406 10.0003H15.8307" stroke="#64748B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>                  
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div id="listMuseums" class="list-museums thumbnail-3" data-thumbnail-size="3">
+          <!-- Museum Item -->
+        </div>
+
+        <!-- <button class="loadMoreMuseumBtn">
+          <p class="bodyMediumMedium">Load more museum</p>
+        </button> -->
+      </div>
+    </section>
+  </main>
+  
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__top">
+        <div class="navigation__app">
+          <span class="app__logo"></span>
+          <p class="app__text bodyLargeBold">Virtualion</p>
+        </div>
+        <ul class="list">
+          <li class="bodySmallMedium item">Menu 1</li>
+          <li class="bodySmallMedium item">Menu 2</li>
+          <li class="bodySmallMedium item">Menu 3</li>
+          <li class="bodySmallMedium item">Menu 4</li>
+          <li class="bodySmallMedium item">Menu 5</li>
+          <li class="bodySmallMedium item">Menu 6</li>
+        </ul>
+        <div class="social-media">
+          <a href="#" class="link">
+            <img src="/assets/icon/twitter.png" class="img" alt=""/>
+          </a>
+          <a href="#" class="link">
+            <img src="/assets/icon/facebook.png" class="img" alt=""/>
+          </a>
+          <a href="#" class="link">
+            <img src="/assets/icon/instagram.png" class="img" alt=""/>
+          </a>
+          <a href="#" class="link">
+            <img src="/assets/icon/pinterest.png" class="img" alt=""/>
+          </a>
+        </div>
+      </div>
+      <ul class="footer__bottom">
+        <li class="bodySmallReguler item">© 2023 Virtualion.</li>
+        <li class="bodySmallReguler item">Terms</li>
+        <li class="bodySmallReguler item">Privacy</li>
+        <li class="bodySmallReguler item">Cookies</li>
+      </ul>
+    </div>
+  </footer>
+  
+</body>
+</html>
