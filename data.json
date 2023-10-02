@@ -3,7 +3,7 @@
     "id": "\u4e09\u306e\u4e38\u5c1a\u8535\u9928",
     "date": "10/1/2023",
     "title": "\u4e09\u306e\u4e38\u5c1a\u8535\u9928\uff08\u30d1\u30d6\u30ea\u30c3\u30af\u30c9\u30e1\u30a4\u30f3\u5c55\uff09",
-    "thumbnail": "/assets/img/thumbnail_m/sannnomaru.png",
+    "thumbnail": "assets/img/thumbnail_m/sannnomaru.png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/osaka/Resources/url/sannnomaru.txt",
     "category": "social",
     "keyword": [
@@ -20,7 +20,7 @@
     "id": "\u5317\u6d77\u9053\u7acb\u8fd1\u4ee3\u7f8e\u8853\u9928",
     "date": "10/1/2023",
     "title": "\u5317\u6d77\u9053\u7acb\u8fd1\u4ee3\u7f8e\u8853\u9928\uff08\u30d1\u30d6\u30ea\u30c3\u30af\u30c9\u30e1\u30a4\u30f3\u5c55\uff09",
-    "thumbnail": "/assets/img/thumbnail_m/hokkaido1.png",
+    "thumbnail": "assets/img/thumbnail_m/hokkaido1.png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/osaka/Resources/url/hokkaido1.txt",
     "category": "modern",
     "keyword": [
@@ -37,7 +37,7 @@
     "id": "\u5bae\u57ce\u770c\u7f8e\u8853\u9928",
     "date": "10/1/2023",
     "title": "\u5bae\u57ce\u770c\u7f8e\u8853\u9928\uff08\u30d1\u30d6\u30ea\u30c3\u30af\u30c9\u30e1\u30a4\u30f3\u5c55\uff09",
-    "thumbnail": "/assets/img/thumbnail_m/miyagiken.png",
+    "thumbnail": "assets/img/thumbnail_m/miyagiken.png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/osaka/Resources/url/miyagiken.txt",
     "category": "oriental",
     "keyword": [
@@ -54,7 +54,7 @@
     "id": "\u79cb\u7530\u770c\u7acb\u8fd1\u4ee3\u7f8e\u8853\u9928",
     "date": "10/1/2023",
     "title": "\u79cb\u7530\u770c\u7acb\u8fd1\u4ee3\u7f8e\u8853\u9928\uff08\u30d1\u30d6\u30ea\u30c3\u30af\u30c9\u30e1\u30a4\u30f3\u5c55\uff09",
-    "thumbnail": "/assets/img/thumbnail_m/akitaken.png",
+    "thumbnail": "assets/img/thumbnail_m/akitaken.png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/osaka/Resources/url/akitaken.txt",
     "category": "oriental",
     "keyword": [
@@ -71,7 +71,7 @@
     "id": "\u90e1\u5c71\u5e02\u7acb\u7f8e\u8853\u9928",
     "date": "10/1/2023",
     "title": "\u90e1\u5c71\u5e02\u7acb\u7f8e\u8853\u9928\uff08\u30d1\u30d6\u30ea\u30c3\u30af\u30c9\u30e1\u30a4\u30f3\u5c55\uff09",
-    "thumbnail": "/assets/img/thumbnail_m/kooriyamashi.png",
+    "thumbnail": "assets/img/thumbnail_m/kooriyamashi.png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/osaka/Resources/url/kooriyamashi.txt",
     "category": "modern",
     "keyword": [
@@ -88,7 +88,7 @@
     "id": "\u8328\u57ce\u770c\u8fd1\u4ee3\u7f8e\u8853\u9928",
     "date": "10/1/2023",
     "title": "\u8328\u57ce\u770c\u8fd1\u4ee3\u7f8e\u8853\u9928\uff08\u30d1\u30d6\u30ea\u30c3\u30af\u30c9\u30e1\u30a4\u30f3\u5c55\uff09",
-    "thumbnail": "/assets/img/thumbnail_m/ibaraki.png",
+    "thumbnail": "assets/img/thumbnail_m/ibaraki.png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/osaka/Resources/url/ibaraki.txt",
     "category": "modern",
     "keyword": [
@@ -105,7 +105,7 @@
     "id": "\u3072\u308d\u3057\u307e\u7f8e\u8853\u9928",
     "date": "10/1/2023",
     "title": "\u3072\u308d\u3057\u307e\u7f8e\u8853\u9928\uff08\u30d1\u30d6\u30ea\u30c3\u30af\u30c9\u30e1\u30a4\u30f3\u5c55\uff09",
-    "thumbnail": "/assets/img/thumbnail_m/hiroshima.png",
+    "thumbnail": "assets/img/thumbnail_m/hiroshima.png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/osaka/Resources/url/hiroshima.txt",
     "category": "western",
     "keyword": [
@@ -122,7 +122,7 @@
     "id": "\u30a6\u30c3\u30c9\u30ef\u30f3\u7f8e\u8853\u9928",
     "date": "10/1/2023",
     "title": "\u30a6\u30c3\u30c9\u30ef\u30f3\u7f8e\u8853\u9928\uff08\u30d1\u30d6\u30ea\u30c3\u30af\u30c9\u30e1\u30a4\u30f3\u5c55\uff09",
-    "thumbnail": "/assets/img/thumbnail_m/woodone.png",
+    "thumbnail": "assets/img/thumbnail_m/woodone.png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/osaka/Resources/url/woodone.txt",
     "category": "oriental",
     "keyword": [
@@ -139,7 +139,7 @@
     "id": "\u5730\u4e2d\u7f8e\u8853\u9928",
     "date": "10/1/2023",
     "title": "\u5730\u4e2d\u7f8e\u8853\u9928\uff08\u30d1\u30d6\u30ea\u30c3\u30af\u30c9\u30e1\u30a4\u30f3\u5c55\uff09",
-    "thumbnail": "/assets/img/thumbnail_m/chichu.png",
+    "thumbnail": "assets/img/thumbnail_m/chichu.png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/osaka/Resources/url/chichu.txt",
     "category": "modern",
     "keyword": [
@@ -156,7 +156,7 @@
     "id": "\u5927\u962a\u5e02\u7acb\u7f8e\u8853\u9928",
     "date": "10/1/2023",
     "title": "\u5927\u962a\u5e02\u7acb\u7f8e\u8853\u9928\uff08\u30d1\u30d6\u30ea\u30c3\u30af\u30c9\u30e1\u30a4\u30f3\u5c55\uff09",
-    "thumbnail": "/assets/img/thumbnail_m/osaka2.png",
+    "thumbnail": "assets/img/thumbnail_m/osaka2.png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/osaka/Resources/url/osaka2.txt",
     "category": "oriental",
     "keyword": [
@@ -173,7 +173,7 @@
     "id": "\u30a2\u30e0\u30b9\u30c6\u30eb\u30c0\u30e0\u56fd\u7acb\u7f8e\u8853\u9928\u306e\u30b4\u30c3\u30db ",
     "date": "10/1/2023",
     "title": "\u30a2\u30e0\u30b9\u30c6\u30eb\u30c0\u30e0\u56fd\u7acb\u7f8e\u8853\u9928\u306e\u30b4\u30c3\u30db ",
-    "thumbnail": "/assets/img/thumbnail_m/\u30a2\u30e0\u30b9\u30c6\u30eb\u30c0\u30e0\u56fd\u7acb\u7f8e\u8853\u9928\u306e\u30b4\u30c3\u30db .png",
+    "thumbnail": "assets/img/thumbnail_m/\u30a2\u30e0\u30b9\u30c6\u30eb\u30c0\u30e0\u56fd\u7acb\u7f8e\u8853\u9928\u306e\u30b4\u30c3\u30db .png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/holland/url/gho2.html",
     "category": "western",
     "keyword": [
@@ -190,7 +190,7 @@
     "id": "\u6c5f\u6238\u306e\u73cd\u9ce5",
     "date": "10/1/2023",
     "title": "\u6c5f\u6238\u306e\u73cd\u9ce5",
-    "thumbnail": "/assets/img/thumbnail_m/\u6c5f\u6238\u306e\u73cd\u9ce5.png",
+    "thumbnail": "assets/img/thumbnail_m/\u6c5f\u6238\u306e\u73cd\u9ce5.png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/biodiv/url/tori.txt",
     "category": "natural",
     "keyword": [
@@ -207,7 +207,7 @@
     "id": "\u6b4c\u5ddd\u56fd\u82b3\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09",
     "date": "10/1/2023",
     "title": "\u6b4c\u5ddd\u56fd\u82b3\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09",
-    "thumbnail": "/assets/img/thumbnail_m/\u6b4c\u5ddd\u56fd\u82b3\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09.png",
+    "thumbnail": "assets/img/thumbnail_m/\u6b4c\u5ddd\u56fd\u82b3\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09.png",
     "link": "https://virtualion.geo.jp/Basen/?path=https://virtualion.github.io/kaiga02/path01.txt",
     "category": "oriental",
     "keyword": [
@@ -224,7 +224,7 @@
     "id": "UMA\uff08\u56db\u56fd\u6c34\u65cf\u9928\u30fb\u6d77\u6d0b\u5802\u30fb\u6708\u520a\u30e0\u30fc\u3068\u306e\u30b3\u30e9\u30dc\u5c55\u793a\uff09",
     "date": "10/1/2023",
     "title": "UMA\uff08\u56db\u56fd\u6c34\u65cf\u9928\u30fb\u6d77\u6d0b\u5802\u30fb\u6708\u520a\u30e0\u30fc\u3068\u306e\u30b3\u30e9\u30dc\u5c55\u793a\uff09",
-    "thumbnail": "/assets/img/thumbnail_m/UMA\uff08\u56db\u56fd\u6c34\u65cf\u9928\u30fb\u6d77\u6d0b\u5802\u30fb\u6708\u520a\u30e0\u30fc\u3068\u306e\u30b3\u30e9\u30dc\u5c55\u793a\uff09.png",
+    "thumbnail": "assets/img/thumbnail_m/UMA\uff08\u56db\u56fd\u6c34\u65cf\u9928\u30fb\u6d77\u6d0b\u5802\u30fb\u6708\u520a\u30e0\u30fc\u3068\u306e\u30b3\u30e9\u30dc\u5c55\u793a\uff09.png",
     "link": "https://uma.virtualion.co.jp/",
     "category": "natural",
     "keyword": [
@@ -241,7 +241,7 @@
     "id": "\u8096\u50cf\u753b\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09",
     "date": "10/1/2023",
     "title": "\u8096\u50cf\u753b\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09",
-    "thumbnail": "/assets/img/thumbnail_m/\u8096\u50cf\u753b\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09.png",
+    "thumbnail": "assets/img/thumbnail_m/\u8096\u50cf\u753b\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09.png",
     "link": "https://virtualion.geo.jp/Base3/index.html?path=https://virtualion.github.io/seiyo2/path01.txt",
     "category": "western",
     "keyword": [
@@ -258,7 +258,7 @@
     "id": "77\u306e\u8b0e\u306b\u6311\u6226\u203c\u3057\u307e\u306d\u30df\u30e5\u30fc\u30b8\u30a2\u30e0\u5354\u8b70\u4f1a ",
     "date": "10/1/2023",
     "title": "77\u306e\u8b0e\u306b\u6311\u6226\u203c\u3057\u307e\u306d\u30df\u30e5\u30fc\u30b8\u30a2\u30e0\u5354\u8b70\u4f1a ",
-    "thumbnail": "/assets/img/thumbnail_m/77\u306e\u8b0e\u306b\u6311\u6226\u203c\u3057\u307e\u306d\u30df\u30e5\u30fc\u30b8\u30a2\u30e0\u5354\u8b70\u4f1a .png",
+    "thumbnail": "assets/img/thumbnail_m/77\u306e\u8b0e\u306b\u6311\u6226\u203c\u3057\u307e\u306d\u30df\u30e5\u30fc\u30b8\u30a2\u30e0\u5354\u8b70\u4f1a .png",
     "link": "https://virtualion.github.io/shimane_base/index.html?path=https://virtualion.github.io/shimane_riddle2/path.txt",
     "category": "project",
     "keyword": [
@@ -275,7 +275,7 @@
     "id": "\u6b74\u53f2\u753b\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09",
     "date": "10/1/2023",
     "title": "\u6b74\u53f2\u753b\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09",
-    "thumbnail": "/assets/img/thumbnail_m/\u6b74\u53f2\u753b\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09.png",
+    "thumbnail": "assets/img/thumbnail_m/\u6b74\u53f2\u753b\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09.png",
     "link": "https://virtualion.geo.jp/Base/index.html?path=https://virtualion.github.io/seiyo1/path01.txt",
     "category": "western",
     "keyword": [
@@ -292,7 +292,7 @@
     "id": "\u7433\u6d3e\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09",
     "date": "10/1/2023",
     "title": "\u7433\u6d3e\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09",
-    "thumbnail": "/assets/img/thumbnail_m/\u7433\u6d3e\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09.png",
+    "thumbnail": "assets/img/thumbnail_m/\u7433\u6d3e\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09.png",
     "link": "https://virtualion.geo.jp/Base/index.html?path=https://virtualion.github.io/tokyo03/path.txt",
     "category": "oriental",
     "keyword": [
@@ -309,7 +309,7 @@
     "id": "\u30da\u30f3\u30ae\u30f3\u3068\u4eba\u985e",
     "date": "10/1/2023",
     "title": "\u30da\u30f3\u30ae\u30f3\u3068\u4eba\u985e",
-    "thumbnail": "/assets/img/thumbnail_m/\u30da\u30f3\u30ae\u30f3\u3068\u4eba\u985e.png",
+    "thumbnail": "assets/img/thumbnail_m/\u30da\u30f3\u30ae\u30f3\u3068\u4eba\u985e.png",
     "link": "https://virtualion.github.io/Basen/?path=https://virtualion.github.io/biodiv/url/penguin.txt",
     "category": "natural",
     "keyword": [
@@ -326,7 +326,7 @@
     "id": "\u8eab\u4f53\u30a4\u30e1\u30fc\u30b8\u306e\u5275\u9020\u2015\u611f\u67d3\u75c7\u6642\u4ee3\u306b\u8003\u3048\u308b\u4f1d\u627f\u30fb\u533b\u7642\u30fb\u30a2\u30fc\u30c8\uff08\u56fd\u969b\u65e5\u672c\u6587\u5316\u7814\u7a76\u30bb\u30f3\u30bf\u30fc\uff09",
     "date": "10/1/2023",
     "title": "\u8eab\u4f53\u30a4\u30e1\u30fc\u30b8\u306e\u5275\u9020\u2015\u611f\u67d3\u75c7\u6642\u4ee3\u306b\u8003\u3048\u308b\u4f1d\u627f\u30fb\u533b\u7642\u30fb\u30a2\u30fc\u30c8\uff08\u56fd\u969b\u65e5\u672c\u6587\u5316\u7814\u7a76\u30bb\u30f3\u30bf\u30fc\uff09",
-    "thumbnail": "/assets/img/thumbnail_m/\u8eab\u4f53\u30a4\u30e1\u30fc\u30b8\u306e\u5275\u9020\u2015\u611f\u67d3\u75c7\u6642\u4ee3\u306b\u8003\u3048\u308b\u4f1d\u627f\u30fb\u533b\u7642\u30fb\u30a2\u30fc\u30c8\uff08\u56fd\u969b\u65e5\u672c\u6587\u5316\u7814\u7a76\u30bb\u30f3\u30bf\u30fc\uff09.png",
+    "thumbnail": "assets/img/thumbnail_m/\u8eab\u4f53\u30a4\u30e1\u30fc\u30b8\u306e\u5275\u9020\u2015\u611f\u67d3\u75c7\u6642\u4ee3\u306b\u8003\u3048\u308b\u4f1d\u627f\u30fb\u533b\u7642\u30fb\u30a2\u30fc\u30c8\uff08\u56fd\u969b\u65e5\u672c\u6587\u5316\u7814\u7a76\u30bb\u30f3\u30bf\u30fc\uff09.png",
     "link": "https://bodyimage.virtualion.net/",
     "category": "project",
     "keyword": [
@@ -343,7 +343,7 @@
     "id": "\u304d\u3082\u304b\u308f\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09",
     "date": "10/1/2023",
     "title": "\u304d\u3082\u304b\u308f\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09",
-    "thumbnail": "/assets/img/thumbnail_m/\u304d\u3082\u304b\u308f\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09.png",
+    "thumbnail": "assets/img/thumbnail_m/\u304d\u3082\u304b\u308f\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09.png",
     "link": "https://virtualion.geo.jp/Base/index.html?path=https://virtualion.github.io/tokyo01_JP/path.txt",
     "category": "oriental",
     "keyword": [
@@ -360,7 +360,7 @@
     "id": "\u6b66\u58eb\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09",
     "date": "10/1/2023",
     "title": "\u6b66\u58eb\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09",
-    "thumbnail": "/assets/img/thumbnail_m/\u6b66\u58eb\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09.png",
+    "thumbnail": "assets/img/thumbnail_m/\u6b66\u58eb\uff08\u6771\u4eac\u5bcc\u58eb\u7f8e\u8853\u9928 \uff09.png",
     "link": "https://virtualion.geo.jp/Base/index.html?path=https://virtualion.github.io/tokyo02/path.txt",
     "category": "oriental",
     "keyword": [
@@ -377,7 +377,7 @@
     "id": "\u30a8\u30ea\u30de\u30ad\u30b7\u30ae",
     "date": "10/1/2023",
     "title": "\u30a8\u30ea\u30de\u30ad\u30b7\u30ae",
-    "thumbnail": "/assets/img/thumbnail_m/\u30a8\u30ea\u30de\u30ad\u30b7\u30ae.png",
+    "thumbnail": "assets/img/thumbnail_m/\u30a8\u30ea\u30de\u30ad\u30b7\u30ae.png",
     "link": "https://virtualion.geo.jp/Base/index.html?path=https://virtualion.github.io/erimaki/path.txt",
     "category": "natural",
     "keyword": [
@@ -394,7 +394,7 @@
     "id": "\u3080\u304f\u3069\u308a",
     "date": "10/1/2023",
     "title": "\u3080\u304f\u3069\u308a",
-    "thumbnail": "/assets/img/thumbnail_m/\u3080\u304f\u3069\u308a.png",
+    "thumbnail": "assets/img/thumbnail_m/\u3080\u304f\u3069\u308a.png",
     "link": "https://nftmuseum.coresv.com/mukudori/",
     "category": "natural",
     "keyword": [
@@ -411,7 +411,7 @@
     "id": "NFT",
     "date": "10/1/2023",
     "title": "NFT",
-    "thumbnail": "/assets/img/thumbnail_m/NFT.png",
+    "thumbnail": "assets/img/thumbnail_m/NFT.png",
     "link": "https://nftmuseum.coresv.com/Koba/",
     "category": "project",
     "keyword": [
@@ -428,7 +428,7 @@
     "id": "nagafujiriku",
     "date": "10/1/2023",
     "title": "nagafujiriku",
-    "thumbnail": "/assets/img/thumbnail_m/nagafujiriku.png",
+    "thumbnail": "assets/img/thumbnail_m/nagafujiriku.png",
     "link": "https://nftmuseum.coresv.com/Riku/",
     "category": "project",
     "keyword": [
@@ -445,7 +445,7 @@
     "id": "\u5927\u962a\u5927\u5b66\u7f8e\u8853\u90e8",
     "date": "10/1/2023",
     "title": "\u5927\u962a\u5927\u5b66\u7f8e\u8853\u90e8",
-    "thumbnail": "/assets/img/thumbnail_m/\u5927\u962a\u5927\u5b66\u7f8e\u8853\u90e8.png",
+    "thumbnail": "assets/img/thumbnail_m/\u5927\u962a\u5927\u5b66\u7f8e\u8853\u90e8.png",
     "link": "https://nftmuseum.coresv.com/hanbi/",
     "category": "project",
     "keyword": [
